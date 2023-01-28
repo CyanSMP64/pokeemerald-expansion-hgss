@@ -109,7 +109,7 @@
 037 Vulpix - 96%
     Frame 1: 52
     Frame 2: 56
-038 Ninetales - 89% - sugipals
+038 Ninetales - 89%
     Frame 1: 65
     Frame 2: 66
 039 Jigglypuff
@@ -166,13 +166,13 @@
 056 Mankey - 93%
     Frame 1: 58
     Frame 2: 55
-057 Primeape - 90% - sugipals
+057 Primeape - 90%
     Frame 1: 64
     Frame 2: 59
 058 Growlithe - 98%
     Frame 1: 48
     Frame 2: 50
-059 Arcanine - 82% - sugipals
+059 Arcanine - 82%
     Frame 1: 76
     Frame 2: 78
 060 Poliwag - 99%
@@ -214,7 +214,7 @@
 072 Tentacool - 96%
     Frame 1: 52
     Frame 2: 54
-073 Tentacruel - 91% - sugipals
+073 Tentacruel - 91%
     Frame 1: 62
     Frame 2: 70
 074 Geodude - 92%
@@ -289,10 +289,10 @@
 097 Hypno - 87%
     Frame 1: 70
     Frame 2: 60
-098 Krabby - 91% - sugipals
+098 Krabby - 91%
     Frame 1: 62
     Frame 2: 62
-099 Kingler - 81% - sugipals
+099 Kingler - 81%
     Frame 1: 79
     Frame 2: 76
 100 Voltorb
@@ -319,10 +319,10 @@
 107 Hitmonchan - 92%
     Frame 1: 59
     Frame 2: 62
-108 Lickitung - 91% - sugipals
+108 Lickitung - 91%
     Frame 1: 62
     Frame 2: 57
-109 Koffing - 94% - sugipals
+109 Koffing - 94%
     Frame 1: 56
     Frame 2: 57
 110 Weezing - 80%
@@ -433,16 +433,16 @@
 145 Zapdos - 83%
     Frame 1: 77
     Frame 2: 62
-146 Moltres - 82% - sugipals
+146 Moltres - 82%
     Frame 1: 78
     Frame 2: 76
 147 Dratini - 98%
     Frame 1: 47
     Frame 2: 49
-148 Dragonair - 87% - sugipals
+148 Dragonair - 87%
     Frame 1: 69
     Frame 2: 69
-149 Dragonite - 82% - sugipals
+149 Dragonite - 82%
     Frame 1: 78
     Frame 2: 72
 150 Mewtwo - 89%
@@ -454,7 +454,7 @@
 152 Chikorita
     Frame 1: 44
     Frame 2: 55
-153 Bayleef - 91% - sugipals
+153 Bayleef - 91%
     Frame 1: 61
     Frame 2: 56
 154 Meganium - 84%
@@ -466,7 +466,7 @@
 156 Quilava - 90%
     Frame 1: 64
     Frame 2: 48
-157 Typhlosion - 82% - sugipals
+157 Typhlosion - 82%
     Frame 1: 76
     Frame 2: 78
 158 Totodile
@@ -574,7 +574,7 @@
 192 Sunflora - 98%
     Frame 1: 47
     Frame 2: 44
-193 Yanma - 82% - sugipals
+193 Yanma - 82%
     Frame 1: 78
     Frame 2: 76
 194 Wooper
@@ -616,7 +616,7 @@
 206 Dunsparce - 99%
     Frame 1: 46
     Frame 2: 57
-207 Gligar - 91% - sugipals
+207 Gligar - 91%
     Frame 1: 61
     Frame 2: 60
 208 Steelix - 83%
@@ -673,7 +673,7 @@
 225 Delibird - 97%
     Frame 1: 50
     Frame 2: 47
-226 Mantine - 81% - sugipals
+226 Mantine - 81%
     Frame 1: 79
     Frame 2: 76
 227 Skarmory - 88%
@@ -727,10 +727,10 @@
 243 Raikou - 84%
     Frame 1: 75
     Frame 2: 76
-244 Entei - 86% - sugipals
+244 Entei - 86%
     Frame 1: 71
     Frame 2: 70
-245 Suicune - 85% - sugipals ; edit required
+245 Suicune - 85% ; edit required
     Frame 1: 74
     Frame 2: 73
 246 Larvitar
@@ -820,7 +820,7 @@
 274 Nuzleaf - 98%
     Frame 1: 48
     Frame 2: 48
-275 Shiftry - 80% - sugipals
+275 Shiftry - 80%
     Frame 1: 80
     Frame 2: 79
 276 Taillow
@@ -1147,7 +1147,7 @@
 383 Groudon - 82%
     Frame 1: 78
     Frame 2: 76
-384 Rayquaza - 80% - sugipals
+384 Rayquaza - 80%
     Frame 1: 80
     Frame 2: 78
 385 Jirachi - 99%
@@ -1156,118 +1156,118 @@
 386 Deoxys - 85%
     Frame 1: 74
     Frame 2: 73
-386 Deoxys-A - 83% - sugipals
+386 Deoxys-A - 83%
     Frame 1: 77
     Frame 2: 71
 386 Deoxys-D - 84%
     Frame 1: 76
     Frame 2: 67
-386 Deoxys-S - 84% - sugipals
+386 Deoxys-S - 84%
     Frame 1: 76
     Frame 2: 72
 387 Turtwig
     Frame 1: 42
     Frame 2: 43
-388 Grotle
+388 Grotle - 92%
     Frame 1: 60
     Frame 2: 61
-389 Torterra
+389 Torterra - 81%
     Frame 1: 77
     Frame 2: 79
 390 Chimchar
     Frame 1: 45
     Frame 2: 46
-391 Monferno
+391 Monferno - 94%
     Frame 1: 56
     Frame 2: 55
-392 Infernape
+392 Infernape - 87%
     Frame 1: 68
     Frame 2: 73
 393 Piplup
     Frame 1: 35
     Frame 2: 33
-394 Prinplup
+394 Prinplup - 92%
     Frame 1: 59
     Frame 2: 66
-395 Empoleon
+395 Empoleon - 82%
     Frame 1: 78
     Frame 2: 77
 396 Starly
     Frame 1: 39
     Frame 2: 42
-397 Staravia
+397 Staravia - 96%
     Frame 1: 52
     Frame 2: 56
-398 Staraptor
+398 Staraptor - 88%
     Frame 1: 67
     Frame 2: 64
 399 Bidoof
     Frame 1: 44
     Frame 2: 45
-400 Bibarel
+400 Bibarel - 91%
     Frame 1: 62
     Frame 2: 69
-401 Kricketot
+401 Kricketot - 98%
     Frame 1: 47
     Frame 2: 45
-402 Kricketune
+402 Kricketune - 94%
     Frame 1: 58
     Frame 2: 59
-403 Shinx
+403 Shinx - 98%
     Frame 1: 47
     Frame 2: 51
-404 Luxio
+404 Luxio - 95%
     Frame 1: 53
     Frame 2: 51
-405 Luxray
+405 Luxray - 89%
     Frame 1: 66
     Frame 2: 70
 406 Budew
     Frame 1: 37
     Frame 2: 40
-407 Roserade
+407 Roserade - 92%
     Frame 1: 59
     Frame 2: 59
-408 Cranidos
+408 Cranidos - 92%
     Frame 1: 59
     Frame 2: 63
-409 Rampardos
+409 Rampardos - 82%
     Frame 1: 78
     Frame 2: 74
 410 Shieldon
     Frame 1: 39
     Frame 2: 39
-411 Bastiodon
+411 Bastiodon - 85%
     Frame 1: 73
     Frame 2: 68
 412 Burmy (just do 98% for each form)
     Frame 1: 45
     Frame 2: 47
-413 Wormadam
+413 Wormadam - 97%
     Frame 1: 49
     Frame 2: 51
-414 Mothim
+414 Mothim - 95%
     Frame 1: 53
     Frame 2: 65
-415 Combee
+415 Combee - 97%
     Frame 1: 49
     Frame 2: 51
-416 Vespiquen
+416 Vespiquen - 95%
     Frame 1: 54
     Frame 2: 59
-417 Pachirisu
+417 Pachirisu - 97%
     Frame 1: 49
     Frame 2: 46
-418 Buizel
+418 Buizel - 97%
     Frame 1: 49
     Frame 2: 48
-419 Floatzel
+419 Floatzel - 88%
     Frame 1: 68
     Frame 2: 69
 420 Cherubi
     Frame 1: 32
     Frame 2: 33
-421 Cherrim
+421 Cherrim - 98%
     Frame 1: 47
     Frame 2: 45
 421 Cherrim-Sun
@@ -1276,55 +1276,55 @@
 422 Shellos (no need to resize)
     Frame 1: 42
     Frame 2: 39
-423 Gastrodon
+423 Gastrodon - 94%
     Frame 1: 56
     Frame 2: 52
-424 Ambipom
+424 Ambipom - 86%
     Frame 1: 69
     Frame 2: 74
-425 Drifloon
+425 Drifloon - 94%
     Frame 1: 56
     Frame 2: 57
-426 Drifblim
+426 Drifblim - 89%
     Frame 1: 66
     Frame 2: 67
-427 Buneary
+427 Buneary - 93%
     Frame 1: 57
     Frame 2: 57
-428 Lopunny
+428 Lopunny - 91%
     Frame 1: 62
     Frame 2: 61
-429 Mismagius
+429 Mismagius - 89%
     Frame 1: 65
     Frame 2: 65
-430 Honchkrow
+430 Honchkrow - 86%
     Frame 1: 71
     Frame 2: 65
-431 Glameow
+431 Glameow - 93%
     Frame 1: 58
     Frame 2: 62
-432 Purugly
+432 Purugly - 90%
     Frame 1: 63
     Frame 2: 67
 433 Chingling
     Frame 1: 37
     Frame 2: 37
-434 Stunky
+434 Stunky - 97%
     Frame 1: 50
     Frame 2: 51
-435 Skuntank
+435 Skuntank - 86%
     Frame 1: 72
     Frame 2: 73
 436 Bronzor
     Frame 1: 36
     Frame 2: 33
-437 Bronzong
+437 Bronzong - 91%
     Frame 1: 61
     Frame 2: 61
-438 Bonsly
+438 Bonsly - 98%
     Frame 1: 48
     Frame 2: 46
-439 Mime Jr.
+439 Mime Jr. - 94%
     Frame 1: 55
     Frame 2: 59
 440 Happiny
@@ -1333,16 +1333,16 @@
 441 Chatot
     Frame 1: 39
     Frame 2: 41
-442 Spiritomb
+442 Spiritomb - 93%
     Frame 1: 57
     Frame 2: 56
-443 Gible
+443 Gible - 96%
     Frame 1: 51
     Frame 2: 48
-444 Gabite
+444 Gabite - 89%
     Frame 1: 65
     Frame 2: 65
-445 Garchomp
+445 Garchomp - 81%
     Frame 1: 79
     Frame 2: 79
 446 Munchlax
@@ -1351,160 +1351,160 @@
 447 Riolu
     Frame 1: 43
     Frame 2: 45
-448 Lucario
+448 Lucario - 95%
     Frame 1: 53
     Frame 2: 62
-449 Hippopotas
+449 Hippopotas - 90%
     Frame 1: 64
     Frame 2: 61
-450 Hippowdon
+450 Hippowdon - 80%
     Frame 1: 80
     Frame 2: 80
-451 Skorupi
+451 Skorupi - 98%
     Frame 1: 48
     Frame 2: 44
-452 Drapion
+452 Drapion - 80%
     Frame 1: 80
     Frame 2: 79
 453 Croagunk
     Frame 1: 42
     Frame 2: 40
-454 Toxicroak
+454 Toxicroak - 89%
     Frame 1: 65
     Frame 2: 60
-455 Carnivine
+455 Carnivine - 80%
     Frame 1: 80
     Frame 2: 80
 456 Finneon
     Frame 1: 38
     Frame 2: 39
-457 Lumineon
+457 Lumineon - 86%
     Frame 1: 60
     Frame 2: 74
-458 Mantyke
+458 Mantyke - 96%
     Frame 1: 51
     Frame 2: 54
-459 Snover
+459 Snover - 88%
     Frame 1: 67
     Frame 2: 68
-460 Abomasnow
+460 Abomasnow - 86%
     Frame 1: 72
     Frame 2: 72
-461 Weavile
+461 Weavile - 91%
     Frame 1: 61
     Frame 2: 66
-462 Magnezone
+462 Magnezone - 82%
     Frame 1: 74
     Frame 2: 78
-463 Lickilicky
+463 Lickilicky - 86%
     Frame 1: 67
     Frame 2: 74
-464 Rhyperior
+464 Rhyperior - 81%
     Frame 1: 79
     Frame 2: 79
-465 Tangrowth
+465 Tangrowth - 80%
     Frame 1: 79
     Frame 2: 80
-466 Electivire
+466 Electivire - 84%
     Frame 1: 76
     Frame 2: 73
-467 Magmortar
+467 Magmortar - 85%
     Frame 1: 73
     Frame 2: 72
-468 Togekiss
+468 Togekiss - 80%
     Frame 1: 69
     Frame 2: 80
-469 Yanmega
+469 Yanmega - 82%
     Frame 1: 78
     Frame 2: 74
-470 Leafeon
+470 Leafeon - 97%
     Frame 1: 50
     Frame 2: 49
-471 Glaceon
+471 Glaceon - 94%
     Frame 1: 56
     Frame 2: 45
-472 Gliscor
+472 Gliscor - 85%
     Frame 1: 73
     Frame 2: 69
-473 Mamoswine
+473 Mamoswine - 80%
     Frame 1: 80
     Frame 2: 80
-474 Porygon-Z
+474 Porygon-Z - 96%
     Frame 1: 51
     Frame 2: 54
-475 Gallade
+475 Gallade - 87%
     Frame 1: 70
     Frame 2: 71
-476 Probopass
+476 Probopass - 88%
     Frame 1: 67
     Frame 2: 62
-477 Dusknoir
+477 Dusknoir - 85%
     Frame 1: 73
     Frame 2: 74
-478 Froslass
+478 Froslass - 95%
     Frame 1: 54
     Frame 2: 55
-479 Rotom
+479 Rotom - 91%
     Frame 1: 61
     Frame 2: 63
-479 Rotom-Heat
+479 Rotom-Heat - 92%
     Frame 1: 60
     Frame 2: 65
-479 Rotom-Wash
+479 Rotom-Wash - 84%
     Frame 1: 76
     Frame 2: 72
-479 Rotom-Frost
+479 Rotom-Frost - 81%
     Frame 1: 79
     Frame 2: 79
-479 Rotom-Fan
+479 Rotom-Fan - 85%
     Frame 1: 74
     Frame 2: 71
-479 Rotom-Mow
+479 Rotom-Mow - 89%
     Frame 1: 65
     Frame 2: 68
 480 Uxie
     Frame 1: 45
     Frame 2: 50
-481 Mesprit
+481 Mesprit - 97%
     Frame 1: 50
     Frame 2: 48
-482 Azelf
+482 Azelf - 95%
     Frame 1: 53
     Frame 2: 53
-483 Dialga
+483 Dialga - 81%
     Frame 1: 79
     Frame 2: 78
-484 Palkia
+484 Palkia - 80%
     Frame 1: 80
     Frame 2: 79
-485 Heatran
+485 Heatran - 80%
     Frame 1: 79
     Frame 2: 80
-486 Regigigas
+486 Regigigas - 81%
     Frame 1: 77
     Frame 2: 79
-487 Giratina
+487 Giratina - 80%
     Frame 1: 80
     Frame 2: 79
-488 Cresselia
+488 Cresselia - 89%
     Frame 1: 66
     Frame 2: 69
 489 Phione
     Frame 1: 42
     Frame 2: 46
-490 Manaphy
+490 Manaphy - 94%
     Frame 1: 56
     Frame 2: 48
-491 Darkrai
+491 Darkrai - 84%
     Frame 1: 75
     Frame 2: 67
 492 Shaymin
     Frame 1: 34
     Frame 2: 34
-492 Shaymin-Sky
+492 Shaymin-Sky - 93%
     Frame 1: 58
     Frame 2: 58
-493 Arceus
+493 Arceus - 80%
     Frame 1: 80
     Frame 2: 72
 494 Victini
