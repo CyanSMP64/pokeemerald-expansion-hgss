@@ -787,7 +787,7 @@
 263 Zigzagoon - 95%
     Frame 1: 53
     Frame 2: 53
-264 Linoone - 92%
+264 Linoone - 84%
     Frame 1: 60
     Frame 2: 76
 265 Wurmple
