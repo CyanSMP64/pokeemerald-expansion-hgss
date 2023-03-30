@@ -2,6 +2,9 @@
 // is during battle. Species that float or fly have nonzero values.
 const u8 gEnemyMonElevation[NUM_SPECIES] =
 {
+    [SPECIES_MAGNEMITE] = 16,
+    [SPECIES_HORSEA] = 8,
+    [SPECIES_KABUTO] = 13,
     // Gen 4
     // Gen 5
     [SPECIES_MUNNA] = 7,
