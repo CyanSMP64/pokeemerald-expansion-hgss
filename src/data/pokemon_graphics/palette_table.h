@@ -1054,7 +1054,7 @@ const struct CompressedSpritePalette gMonPaletteTable[] =
     SPECIES_PAL(PIKACHU_PARTNER_CAP, gMonPalette_PikachuPartnerCap),
     SPECIES_PAL(PIKACHU_WORLD_CAP, gMonPalette_PikachuWorldCap),
 
-    SPECIES_PAL(PICHU_SPIKY_EARED, gMonPalette_PichuSpikyEared),
+    SPECIES_PAL(PICHU_SPIKY_EARED, gMonPalette_Pichu),
 
     SPECIES_PAL(UNOWN_B, gMonPalette_Unown),
     SPECIES_PAL(UNOWN_C, gMonPalette_Unown),

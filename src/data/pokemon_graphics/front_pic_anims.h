@@ -9474,6 +9474,9 @@ static const union AnimCmd sAnim_PikachuWorldCap_1[] =
 
 static const union AnimCmd sAnim_PichuSpikyEared_1[] =
 {
+    ANIMCMD_FRAME(0, 22),
+    ANIMCMD_FRAME(1, 22),
+    ANIMCMD_LOOP(2),
     ANIMCMD_FRAME(0, 1),
     ANIMCMD_END,
 };
